@@ -1,0 +1,6 @@
+! globals
+##[class*=banner]
+##[id*=banner]
+##[class*=advert]
+##[id*=advert]
+
